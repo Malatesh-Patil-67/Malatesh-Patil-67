@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AWS ETL Pipelines**
 
-- 🌱 I’m currently learning **AWS Data Engineering skills**
+- 🌱 I’m open to **DATA ENGINEER ROLES**
 
 - 📫 How to reach me **malateshpatil6767@gmail.com**
 
