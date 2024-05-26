@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Malatesh</h1>
 <h3 align="center">Aspiring Data Scientist , currently Pursuing Master's in Applied Data Science.</h3>
 
-- 🔭 I’m currently learning  ** AWS Data Engineering services**
+- 
 
-- 🌱 I’m open to **Data Scientist ROLES**
-
+- 🌱 I’m open to **Data Scientist roles**
+                **Data  Engineer roles**
 - 📫 How to reach me **malateshgirishpatil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
