@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Malatesh</h1>
 
+<img src="https://github.com/Malatesh-Patil-67/Malatesh-Patil-67/assets/107174504/b37b491a-a7f4-444e-8fdc-f2a68d2a38e9" alt="Azure Logo" width="200" height="200" />
+
+
 
 
 - 🌱 I’m open to **Data Scientist roles** ,
