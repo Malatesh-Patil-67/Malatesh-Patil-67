@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Malatesh-Patil-67/Malatesh-Patil-67/assets/107174504/b37b491a-a7f4-444e-8fdc-f2a68d2a38e9" alt="Azure Logo" width="200" height="200" />
 
-- 🌱 I’m open to **Data Scientist**, **Data Engineer**, **Software Developer** and **Business Intelligence Engineer** roles
+- 🌱 I’m open to **Data Scientist**, **Data Engineer**, **Data Analyst**, and **Business Intelligence Engineer** roles
 - 📫 How to reach me **malateshgirishpatil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
